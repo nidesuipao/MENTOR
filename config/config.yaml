@@ -1,0 +1,10 @@
+lr-upper-critic: 1e-3
+lr-upper-actor: 3e-4
+lr-reward-model: 3e-4
+lr-actor: 1e-3
+lr-critic: 1e-3
+
+n-test-rollouts: 50
+batch-size: 512
+feed_type: 2
+max_feedback: 6000
